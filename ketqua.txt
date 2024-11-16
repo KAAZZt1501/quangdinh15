@@ -1,0 +1,4 @@
+Tên khách hàng; Số điện thoại; Số phút; Thời gian gọi; Ngày gọi; Vùng; Tiền
+Nguyen Anh Tuấn; 0987654233; 4; 8h23; 14/10/2019; NH; 4400
+Nguyen Anh Tuấn; 0987654233; 6; 15h10; 19/10/2030; LC; 9240
+Le Nhat Anh; 0967456321; 1; 23h05; 15/10/2028; RX; 3080
