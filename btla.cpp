@@ -53,7 +53,7 @@ public:
         int soluong;
         cout << "Nhap so luong cafe: ";
         cin >> soluong;
-        cin.ignore();  // B? qua k? t? newline c?n l?i
+        cin.ignore();  
         for (int i = 0; i < soluong; i++) {
             cout << "Nhap thong tin cafe thu " << i + 1 << ":\n";
             Coffee cf;
